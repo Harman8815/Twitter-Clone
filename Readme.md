@@ -19,7 +19,10 @@ Notification page
 
 ### Video Demo
 
+https://github.com/user-attachments/assets/9e0289f7-6443-415b-8dc1-411cff385607
+
 ---
+
 
 ## Features
 
