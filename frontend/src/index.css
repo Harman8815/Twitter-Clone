@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Force the "black" theme */
+body {
+	--tw-prose-body: rgb(24, 24, 24);
+	--tw-prose-headings: rgb(29, 155, 240);
+	--tw-prose-links: rgb(29, 155, 240);
+	--tw-prose-bold: rgb(29, 155, 240);
+	--tw-prose-counters: rgb(24, 24, 24);
+	--tw-prose-bullets: rgb(24, 24, 24);
+	--tw-prose-hr: rgb(24, 24, 24);
+	--tw-prose-quotes: rgb(24, 24, 24);
+	--tw-prose-quote-borders: rgb(29, 155, 240);
+	--tw-prose-captions: rgb(24, 24, 24);
+	--tw-prose-code: rgb(29, 155, 240);
+	--tw-prose-pre-code: rgb(24, 24, 24);
+	--tw-prose-pre-bg: rgb(29, 155, 240);
+	background-color: rgb(24, 24, 24);
+	color: rgb(29, 155, 240);
+}
